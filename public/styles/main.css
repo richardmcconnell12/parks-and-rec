@@ -1,0 +1,8 @@
+.park_visited_true {
+    border: 2px dashed red;
+}
+
+.park_visited_false {
+    border: 2px solid green;
+}
+
